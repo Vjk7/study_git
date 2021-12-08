@@ -1,3 +1,3 @@
 # study_git
 
-# update names hera 
+# update names here
